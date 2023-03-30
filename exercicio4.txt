@@ -1,0 +1,2 @@
+Os dois veículos estarão à mesma distância da cidade, uma vez que a cidade de Ribeirão Preto é uma referência fixa no problema e não se altera.
+Quando os dois veículos se cruzarem, estarão no mesmo ponto em relação à cidade. 
